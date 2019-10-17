@@ -1,0 +1,21 @@
+{
+  "name": "subscription-collector",
+  "version": "1.0.0",
+  "description": "Tool for convenient addition new subscriptions",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Shvets",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xuxicheta/subscription-collector.git"
+  }
+}

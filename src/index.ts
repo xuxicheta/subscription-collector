@@ -1,0 +1,1 @@
+export { SubscriptionCollector } from './subscription-collector.class';
